@@ -1,0 +1,7 @@
+Alloy
+	Collection(src='books')
+	Window.container
+		TableView(dataCollection='books')
+			TableViewRow(title='{title}' author='{author}' onClick='showBook')
+		Menu(id='menu' platform='android')
+			MenuItem(title='Add book' onClick='addBook' showAsAction="Ti.Android.SHOW_AS_ACTION_IF_ROOM")
