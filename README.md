@@ -3,10 +3,10 @@ Books
 
 Ti.alloy demo sandbox
 
-***
 
-__Additions:__
-- Yo, bower, gulp stack
+Additions
+---------
+- Yo, bower, and gulp
 - CoffeeScript
 - Jade/Sass
 
