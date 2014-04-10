@@ -4,8 +4,7 @@ Books
 Ti.alloy demo sandbox
 
 
-Additions
----------
+__Additions:__
 - Yo, bower, and gulp
 - CoffeeScript
 - Jade/Sass
