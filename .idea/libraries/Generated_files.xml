@@ -1,0 +1,33 @@
+<component name="libraryTable">
+  <library name="Generated files" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/app/controllers/addbook.js" />
+        <item url="file://$PROJECT_DIR$/app/controllers/index.js" />
+        <item url="file://$PROJECT_DIR$/app/alloy.js" />
+        <item url="file://$PROJECT_DIR$/app/models/books.js" />
+        <item url="file://$PROJECT_DIR$/soapCall.js" />
+        <item url="file://$PROJECT_DIR$/app/controllers/addbook.js" />
+        <item url="file://$PROJECT_DIR$/app/controllers/bookdetails.js" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/app/controllers/addbook.js.js" />
+      <root url="file://$PROJECT_DIR$/app/controllers/addbook.js.js" />
+      <root url="file://$PROJECT_DIR$/app/config.js" />
+      <root url="file://$PROJECT_DIR$/app/config.js" />
+      <root url="file://$PROJECT_DIR$/bower_components/coffee-script/examples/underscore.js" />
+      <root url="file://$PROJECT_DIR$/olderscore.js" />
+      <root url="file://$PROJECT_DIR$/bower_components/coffee-script/examples/underscore.js" />
+      <root url="file://$PROJECT_DIR$/olderscore.js" />
+      <root url="file://$PROJECT_DIR$/app/controllers/addbook.js" />
+      <root url="file://$PROJECT_DIR$/app/controllers/index.js" />
+      <root url="file://$PROJECT_DIR$/soapCall.js" />
+      <root url="file://$PROJECT_DIR$/app/models/books.js" />
+      <root url="file://$PROJECT_DIR$/app/alloy.js" />
+      <root url="file://$PROJECT_DIR$/app/controllers/addbook.js" />
+      <root url="file://$PROJECT_DIR$/app/controllers/bookdetails.js" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
