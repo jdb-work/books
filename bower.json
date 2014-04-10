@@ -31,6 +31,7 @@
     "requirejs": "~2.1.11"
   },
   "devDependencies": {
-    "coffee-script": "~1.7.1"
+    "coffee-script": "~1.7.1",
+    "grunt": "~0.4.4"
   }
 }
