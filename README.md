@@ -1,8 +1,14 @@
-books
------
+Books
+=====
 
-Ti.alloy demo sandbox for gdtnd.
+Ti.alloy demo sandbox
 
-**Now with 100% more Jade!**
+__Additions:__
+- Yo, bower, gulp stack
+- CoffeeScript
+- Jade/Sass
+
+
+
 
 
